@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "LGwNKPgUvsZUCgXOB+glLobOYAQ4EElCbEdPPkb3Gso=",
+  "Source": "AngularPrueba.Server",
+  "BasePath": "_content/AngularPrueba.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\juan.hernandez\\source\\repos\\AngularPrueba\\angularprueba.client\\angularprueba.client.esproj",
+      "Version": 2,
+      "Source": "angularprueba.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
